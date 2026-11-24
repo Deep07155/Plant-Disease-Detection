@@ -1,0 +1,42 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local notebooks, test and tool caches
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Private credentials: NEVER upload
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+kaggle.json
+
+# Local datasets / downloads (not needed by the deployed app)
+/data/
+/datasets/
+
+# Temporary files, logs and downloaded ZIP archives
+*.log
+*.tmp
+*.bak
+*.zip
+
+# Code editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
