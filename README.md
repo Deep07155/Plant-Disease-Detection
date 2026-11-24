@@ -2,6 +2,8 @@
 
 A premium, interactive **Streamlit + PyTorch** plant disease detection website using a **real, already-trained MobileNetV2 model**. Includes three design options inspired by the approved concept previews: **Premium Dark (default)**, Natural & Clean, and AgriTech Dashboard.
 
+## LIVE APP - https://plant-disease-detection-y8nb.onrender.com
+
 ## Features
 
 - Upload a leaf photo (JPG/PNG) and receive an actual prediction.
